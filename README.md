@@ -1,16 +1,10 @@
-# 📊 Superstore Sales Dashboard
+# 📊 SUPERSTORE SALES DASHBOARD
 
-An interactive Power BI dashboard designed to analyze retail sales performance across products, customers, regions, and time. The dashboard provides actionable insights into sales trends, profitability, customer behavior, and short-term sales forecasting to support data-driven business decisions.
-
----
-
-# 📖 Short Description / Purpose
+An interactive Power BI dashboard designed to analyze retail sales performance across products, customers, regions, and time. The dashboard provides actionable insights into sales trends, profitability, customer behavior, and short-term sales forecasting to support data-driven business decisions. 
 
 The Superstore Sales Dashboard is an interactive business intelligence solution built in Power BI to help stakeholders monitor and analyze retail performance. It transforms raw transactional data into meaningful insights by tracking key business metrics, identifying high-performing categories and regions, and forecasting future sales trends.
 
 The dashboard enables business users, managers, and analysts to make informed decisions through intuitive visualizations and interactive filtering.
-
----
 
 # 🛠️ Tech Stack
 
@@ -21,8 +15,6 @@ The dashboard was built using the following tools and technologies:
 - 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures, KPIs, and business logic.
 - 📝 **Data Modeling** – Established relationships between tables to enable efficient analysis and cross-filtering.
 - 📁 **File Format** - .pbix for development and .png for dashboard previews.
-
----
 
 # 📂 Data Source
 
@@ -45,8 +37,6 @@ The dashboard is built using a retail sales dataset containing historical order 
 - Region
 
 The dataset enables comprehensive analysis of sales performance across multiple business dimensions.
-
----
 
 # ✨ Features / Highlights
 
@@ -91,55 +81,37 @@ Provides a high-level overview of business performance through:
 - Total Quantity Sold
 - Average Delivery Time
 
----
-
 ### 🔹 Sales by Category
 
 Compares total sales across different product categories, helping identify the highest revenue-generating product groups.
-
----
 
 ### 🔹 Sales by Sub-Category
 
 Breaks down category performance into individual product sub-categories for deeper analysis.
 
----
-
 ### 🔹 Sales by Customer Segment
 
 Shows how different customer segments contribute to overall revenue.
-
----
 
 ### 🔹 Sales by State
 
 A geographic visualization highlighting sales distribution across different states, making it easy to identify top-performing regions.
 
----
-
 ### 🔹 Monthly Sales & Profit Trend
 
 Line charts showing monthly changes in sales and profit to identify seasonality, growth patterns, and business trends.
-
----
 
 ### 🔹 Sales by Shipping Mode
 
 Displays customer preferences for shipping methods and their contribution to total orders.
 
----
-
 ### 🔹 Sales by Payment Mode
 
 Visualizes the distribution of customer payment methods used for purchases.
 
----
-
 ### 🔹 15-Day Sales Forecast
 
 Uses Power BI forecasting to estimate expected sales over the next 15 days, helping support short-term planning and inventory decisions.
-
----
 
 ## 💡 Business Impact & Insights
 
@@ -152,20 +124,6 @@ The dashboard enables organizations to:
 - Evaluate customer preferences for shipping and payment methods.
 - Support inventory and operational planning using short-term sales forecasting.
 - Improve decision-making through interactive, data-driven insights.
-
----
-
-# 📷 Dashboard Preview
-
-> *(Add your dashboard screenshots here)*
-
-Example:
-
-```
-![Dashboard Overview](images/dashboard-overview.png)
-```
-
----
 
 # 🚀 Skills Demonstrated
 
@@ -180,8 +138,6 @@ Example:
 - Forecasting
 - Dashboard Design
 
----
-
 # 📬 Feedback
 
 Suggestions and feedback are always welcome.
@@ -189,7 +145,9 @@ Suggestions and feedback are always welcome.
 If you have any ideas for improving this project, feel free to open an issue or submit a pull request.
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
+
 ## 📸 Dashboard Preview
+
 See what the dashboard looks like. Example:
 ![sales dashboard](https://github.com/Eshwar-kiran/superstore-sales-dashboard/blob/main/snapshot_of_sales_dashboard.png)
 
