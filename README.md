@@ -14,8 +14,6 @@ It helps answer questions like:
 
 The dashboard is designed to help business users monitor performance, identify trends, and support better decision-making.
 
----
-
 ## 🛠️ Tech Stack
 
 - **📊 Power BI Desktop** – Dashboard development and visualization
@@ -23,8 +21,6 @@ The dashboard is designed to help business users monitor performance, identify t
 - **🧠 DAX (Data Analysis Expressions)** – Calculated measures and KPIs
 - **📝 Data Modeling** – Table relationships and optimized data structure
 - **📂 File Format** – .pbix for development and .png for dashboard previews.
-  
----
 
 ## 📂 Dataset
 
@@ -42,8 +38,6 @@ The dashboard is built using the **Superstore Sales Dataset**, which contains re
 - Order Dates
 - State-wise Sales
 
----
-
 ## 📈 Dashboard Highlights
 
 ### 📌 Key Performance Indicators
@@ -54,8 +48,6 @@ The dashboard provides a quick overview of important business metrics including:
 - Total Profit
 - Total Quantity Sold
 - Average Delivery Time
-
----
 
 ## 💡 Key Insights
 
@@ -75,8 +67,6 @@ image link
 ### Sales Forecast
 image link
 
----
-
 ## 🎯 Skills Demonstrated
 
 - Power BI Dashboard Development
@@ -88,8 +78,6 @@ image link
 - Sales Analytics
 - Forecasting
 - Interactive Reporting
-
----
 
 ## 📬 Feedback
 
