@@ -16,28 +16,14 @@ The dashboard is designed to help business users monitor performance, identify t
 
 ---
 
-## 🚀 Features
-
-- Interactive sales performance dashboard
-- Sales analysis by Category and Sub-Category
-- Monthly Sales & Profit trends
-- Regional sales analysis across U.S. states
-- Customer Segment analysis
-- Shipping Mode analysis
-- Payment Mode analysis
-- Key business KPIs
-- 15-Day Sales Forecast
-- Interactive filters for easy exploration
-
----
-
 ## 🛠️ Tech Stack
 
-- **Power BI Desktop** – Dashboard development and visualization
-- **Power Query** – Data cleaning and transformation
-- **DAX (Data Analysis Expressions)** – Calculated measures and KPIs
-- **Data Modeling** – Table relationships and optimized data structure
-
+- **📊 Power BI Desktop** – Dashboard development and visualization
+- **📂 Power Query** – Data cleaning and transformation
+- **🧠 DAX (Data Analysis Expressions)** – Calculated measures and KPIs
+- **📝 Data Modeling** – Table relationships and optimized data structure
+- **📂 File Format** – .pbix for development and .png for dashboard previews.
+  
 ---
 
 ## 📂 Dataset
@@ -68,48 +54,6 @@ The dashboard provides a quick overview of important business metrics including:
 - Total Profit
 - Total Quantity Sold
 - Average Delivery Time
-
----
-
-### 📦 Product Performance
-
-Analyze sales across different product categories and identify the best-performing sub-categories such as Phones, Chairs, and Binders.
-
----
-
-### 📅 Sales & Profit Trends
-
-Track monthly sales and profit over multiple years to understand seasonal patterns and overall business growth.
-
----
-
-### 🌎 Regional Analysis
-
-Visualize sales across different states to identify high-performing markets and uncover regional trends.
-
----
-
-### 👥 Customer Insights
-
-Compare sales contribution across Consumer, Corporate, and Home Office customer segments.
-
----
-
-### 🚚 Shipping Analysis
-
-Understand how customers prefer receiving their orders by comparing different shipping modes including Standard Class, First Class, Second Class, and Same Day delivery.
-
----
-
-### 💳 Payment Analysis
-
-Analyze customer payment preferences across Cards, Online Payments, and Cash on Delivery (COD).
-
----
-
-### 🔮 Sales Forecast
-
-The dashboard includes a built-in **15-Day Sales Forecast** to help estimate upcoming sales trends and support better inventory and business planning.
 
 ---
 
