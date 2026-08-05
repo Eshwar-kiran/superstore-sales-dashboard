@@ -21,6 +21,7 @@ The dashboard is designed to help business users monitor performance, identify t
 
 ## 📂 Dataset
 The dashboard is built using the **Superstore Sales Dataset**, which contains retail transaction data including:
+
 Orders, Sales, Profit, Quantity, Product Categories, Product Sub-Categories, Customer Segments, Shipping Modes, Payment Modes, Order Dates, State-wise Sales
 
 ## 📈 Dashboard Highlights
