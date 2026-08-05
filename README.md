@@ -68,3 +68,5 @@ If you have any suggestions or feedback, feel free to open an issue or connect w
 ## 📸 Dashboard Preview
 See what the dashboard looks like. Example:
 ![sales dashboard](https://github.com/Eshwar-kiran/superstore-sales-dashboard/blob/main/snapshot_of_sales_dashboard.png)
+
+![sales forecast](https://github.com/Eshwar-kiran/superstore-sales-dashboard/blob/main/snapshot_of_sales_forecast.png)
