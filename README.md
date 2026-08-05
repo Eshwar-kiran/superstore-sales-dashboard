@@ -4,7 +4,6 @@
 Businesses generate a huge amount of sales data every day, but making sense of that data isn't always easy. This dashboard was created to provide a clear view of sales performance across different product categories, customer segments, regions, shipping methods, and payment modes.
 
 It helps answer questions like:
-
 - Which product categories generate the highest revenue?
 - Which states contribute the most sales?
 - How do monthly sales and profits change over time?
@@ -22,21 +21,9 @@ The dashboard is designed to help business users monitor performance, identify t
 
 ## 📂 Dataset
 The dashboard is built using the **Superstore Sales Dataset**, which contains retail transaction data including:
-
-- Orders
-- Sales
-- Profit
-- Quantity
-- Product Categories
-- Product Sub-Categories
-- Customer Segments
-- Shipping Modes
-- Payment Modes
-- Order Dates
-- State-wise Sales
+Orders, Sales, Profit, Quantity, Product Categories, Product Sub-Categories, Customer Segments, Shipping Modes, Payment Modes, Order Dates, State-wise Sales
 
 ## 📈 Dashboard Highlights
-
 ### 📌 Key Performance Indicators
 The dashboard provides a quick overview of important business metrics including:
 
@@ -53,10 +40,7 @@ The dashboard provides a quick overview of important business metrics including:
 - The forecasting report provides a short-term view of expected sales performance for the next 15 days.
 
 ## 🎯 Skills Demonstrated
-
-• Power BI Dashboard Development     • Data Cleaning & Transformation    •  Data Modeling
-• DAX Calculations                   • Business Intelligence             •  Data Visualization
-• Sales Analytics                    • Forecasting                       •  Interactive Reportin
+•  Power BI • Power Query • DAX • Data Modeling • Data Visualization • Sales Analytics • Forecasting
 
 ## 📬 Feedback
 
