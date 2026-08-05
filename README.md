@@ -149,6 +149,7 @@ If you found this project useful, consider giving it a ⭐ on GitHub!
 ## 📸 Dashboard Preview
 
 See what the dashboard looks like. Example:
+
 ![sales dashboard](https://github.com/Eshwar-kiran/superstore-sales-dashboard/blob/main/snapshot_of_sales_dashboard.png)
 
 ![sales forecast](https://github.com/Eshwar-kiran/superstore-sales-dashboard/blob/main/snapshot_of_sales_forecast.png)
